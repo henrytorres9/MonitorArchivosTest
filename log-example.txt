@@ -1,0 +1,59 @@
+2023-04-07 14:21:19 - Archivo C:\Test\Nuevo documento de texto.txt Created
+2023-04-07 14:21:23 - Archivo C:\Test\Nuevo documento de texto.txt renombrado a C:\Test\test.txt
+2023-04-07 14:26:32 - Archivo C:\Test\test.txt Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07 Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\TestPDFFAke1.rtf Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\TestPDFFAke1.rtf Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\TestPDFFAke1.rtf Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\TestTexto1.txt Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\TestTexto1.txt Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\testZIP1.zip Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\testZIP1.zip Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\testZIP1.zip Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00 Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00\TestPDFFAke2.rtf Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00\TestPDFFAke2.rtf Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00\TestPDFFAke2.rtf Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00\TestTexto2.txt Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00\TestTexto2.txt Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00\testZIP2.zip Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00\testZIP2.zip Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-00\testZIP2.zip Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05 Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05\TestPDFFAke3.rtf Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05\TestPDFFAke3.rtf Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05\TestPDFFAke3.rtf Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05\TestTexto3.txt Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05\TestTexto3.txt Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05\testZIP3.zip Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05\testZIP3.zip Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-05\testZIP3.zip Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10 Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10\TestPDFFAke4.rtf Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10\TestPDFFAke4.rtf Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10\TestPDFFAke4.rtf Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10\TestTexto4.txt Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10\TestTexto4.txt Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10 Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10\testZIP4.zip Created
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10\testZIP4.zip Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07\2023-04-07 14-25-10\testZIP4.zip Changed
+2023-04-07 14:26:55 - Archivo C:\Test\2023-04-07 Changed
+2023-04-07 14:34:21 - Archivo C:\Test\Nuevo Documento de Microsoft Word.docx Created
+2023-04-07 14:34:23 - Archivo C:\Test\Nuevo Documento de Microsoft Word.docx renombrado a C:\Test\word.docx
+2023-04-07 14:54:03 - Archivo C:\Test\word.docx renombrado a C:\Test\wordEditado.docx
+2023-04-07 15:15:36 - Archivo C:\Test\test.txt renombrado a C:\Test\testEditado.txt
